@@ -1,4 +1,4 @@
-# git-recipes
-TOP project git-recipes
+# odin-recipes
+TOP project odin-recipes
 
 I will be practicing my HTML skills but with The Odin Project this time. I'll be learning how to use git and github with this project though. I think starting The Odin Project was a smart choice. I only wish I did it sooner. Hopefully I'll get through all the HTML and CSS lessons much more quickly than I did with freecodecamp. I am quite ready for another adventure!
